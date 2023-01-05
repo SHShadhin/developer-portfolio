@@ -172,4 +172,28 @@ nav li {
 .resume-btn{
   margin-top: 50px;
   text-align: center;
+  margin-bottom: 113px;
 }
+
+/* contact styles */
+.contact .section-title {
+  text-align: left;
+}
+.contact {
+  display: flex;
+  background: #FFF8F3;
+  padding:40px 220px;
+}
+.contact p {
+  margin-bottom: 30px;
+}
+.contact input,textarea {
+  margin-bottom: 24px;
+  border: 0px;
+  width: 80%;
+  padding: 18px 30px;
+}
+.contact a {
+  text-decoration: none;
+}
+
