@@ -140,3 +140,36 @@ nav li {
   border-radius: 5px;
   padding: 30px;
 }
+
+/* Resume Styles */
+/* .resume.section-title {
+  margin-bottom: 110px;
+} */
+.resume-content {
+  display: flex;
+  gap: 24px;
+}
+.resume-title {
+  font-weight: 700;
+  font-size: 25px;
+  color: #474747;
+  margin-bottom: 10px;
+}
+.resume-subtitle {
+  color: #757575;
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.resume-description {
+  color: #757575;
+  font-size: 16px;
+}
+.reume-item {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.resume-btn{
+  margin-top: 50px;
+  text-align: center;
+}
